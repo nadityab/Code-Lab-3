@@ -5,9 +5,7 @@ function Home() {
     <div>
       <h2>Home</h2>
       <ul>
-        <li>Hi</li>
-        <li>Aku</li>
-        <li>Home</li>
+        <li>Rumah</li>
       </ul>
     </div>
   );
